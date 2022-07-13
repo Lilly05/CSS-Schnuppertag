@@ -1,2 +1,4 @@
-// Schreibe hier den Code für Aufgabe 07
+function clicked(){
+// Schreibe hier den Code für Aufgabe 06
 
+}
