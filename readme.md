@@ -66,7 +66,7 @@ Weitere Links für Theorie und Hilfe:<br>
 <a href="https://www.w3schools.com/js/js_functions.asp">Funktionen</a><br>
 <a href="https://www.w3schools.com/js/js_intro.asp">HTML Content verändern</a><br>
 <a href="https://www.w3schools.com/jsref/met_document_queryselector.asp">HTML Content verändern</a><br>
-<a href="https://www.w3schools.com/jsref/prop_html_style.asp">HTML Elemente stylen </a>
+<a href="https://www.w3schools.com/jsref/prop_html_style.asp">HTML Elemente stylen</a><br>
 <a href="https://www.w3schools.com/jsref/met_document_createelement.asp">HTML Element in Javascript erstellen</a><br>
 <a href="https://www.w3schools.com/jsref/met_node_appendchild.asp">HTML Element mit Javascript ins HTML File einfügen</a><br>
 <a href="https://www.w3schools.com/html/html_forms.asp">HTML Formulare</a><br>
